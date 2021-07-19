@@ -1,0 +1,11 @@
+html:
+	head:
+		title: honk test;
+	;
+	body:
+		div(css:`color: white;background: black;`, id:'welcome'):
+		Welcome to the world of HONK\;
+		br(/)
+		its a beautiful markup language 
+	;
+;
